@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zardan\\source\\repos\\280554\\Antivirus\\.git\\Antivirus\\Antivirus\\Antivirus.csproj": {}
+    "D:\\Programs\\Antivirus Supinfo\\Antivirus\\Antivirus_App\\Antivirus\\Antivirus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zardan\\source\\repos\\280554\\Antivirus\\.git\\Antivirus\\Antivirus\\Antivirus.csproj": {
+    "D:\\Programs\\Antivirus Supinfo\\Antivirus\\Antivirus_App\\Antivirus\\Antivirus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zardan\\source\\repos\\280554\\Antivirus\\.git\\Antivirus\\Antivirus\\Antivirus.csproj",
+        "projectUniqueName": "D:\\Programs\\Antivirus Supinfo\\Antivirus\\Antivirus_App\\Antivirus\\Antivirus.csproj",
         "projectName": "Antivirus",
-        "projectPath": "C:\\Users\\Zardan\\source\\repos\\280554\\Antivirus\\.git\\Antivirus\\Antivirus\\Antivirus.csproj",
+        "projectPath": "D:\\Programs\\Antivirus Supinfo\\Antivirus\\Antivirus_App\\Antivirus\\Antivirus.csproj",
         "packagesPath": "C:\\Users\\Zardan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zardan\\source\\repos\\280554\\Antivirus\\.git\\Antivirus\\Antivirus\\obj\\",
+        "outputPath": "D:\\Programs\\Antivirus Supinfo\\Antivirus\\Antivirus_App\\Antivirus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zardan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Zardan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Zardan\\.nuget\\packages"
+    ]
+  }
+}
